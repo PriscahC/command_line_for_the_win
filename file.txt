@@ -1,1 +1,4 @@
 authenticating my laptop
+it worked. no need to authenticate when I git push. Use this link to work for you too
+
+<a> https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git <a/>
